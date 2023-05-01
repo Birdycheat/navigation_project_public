@@ -1,4 +1,4 @@
-**FIRST AND FOREMOST, TO EXECUTE THE DIFFERENT CODES YOU MUST BE IN THE Navigation_project FOLDER.**
+**FIRST AND FOREMOST, TO EXECUTE THE DIFFERENT CODES YOU MUST BE IN THE Navigation_project_public FOLDER.**
 
 This file aims to explain the functionality of each of the code files and data management.
 - **Matlab folder**: This folder contains the Matlab code for performing classification using LSTM recurrent neural networks. It is with these algorithms that we obtain the best accuracy, and these are the ones presented in the report. **The models mentioned in the report are saved with their respective window sizes in .mat files and can be directly used on the test sets.**
